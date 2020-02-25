@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
+
+#content{
+    margin-left: 60vw;
+    margin-right: 17vw;
+    margin-top: 33vh;
+    background-color: beige;
+    opacity: 90%;
+}
+
+#result {
+    visibility: hidden;
+    text-align: center;
+}
+
+legend {
+    margin-bottom: 3vh;
+    text-align: center;
+}
+
+button {
+    margin-left: 8vw;
+}
+
